@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Elon SW at Checkpoint
 
 # THANKS
 
