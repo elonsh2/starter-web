@@ -7,3 +7,5 @@ regular text
 added before staging
 update
 copyright
+
+add some more text
